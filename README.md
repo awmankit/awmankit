@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @awmankit
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning React JS and Flutter.
 - 💞️ I’m looking to collaborate on client-server projects.
 
 <!---
