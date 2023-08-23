@@ -2,7 +2,7 @@
 <h2 align="center"> It's <a  href="https://www.linkedin.com/in/ankit7cpp/">Ankit Sharma</a></h2>
 <br>
 
-<img align='right' src="https://e1.pxfuel.com/desktop-wallpaper/763/43/desktop-wallpaper-javascript-nodejs.jpg" width="260" height="230">
+<img align='right' src="https://e1.pxfuel.com/desktop-wallpaper/763/43/desktop-wallpaper-javascript-nodejs.jpg">
 
 I'm a 4th year **Computer Science** student from **AKGEC, Ghaziabad**.<br> 
 I love **Web Development**💡 that helps me to build interactive websites. 
