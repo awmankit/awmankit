@@ -26,18 +26,12 @@ I love **Web Development**💡 that helps me to build interactive websites.
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Devv14&theme=radical" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=awmankit&theme=radical" />
 </p>
 <p align="center">
-  <img src ="https://komarev.com/ghpvc/?username=Devv14&style=plastic&color=f72585"/>
+  <img src ="https://komarev.com/ghpvc/?username=awmankit&style=plastic&color=f72585"/>
 </p>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! </i>
 
-  <p align="center">
-    <a href="https://twitter.com/devvbatra" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/dev-batra-784415201/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:hnd2065@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-
-  </p>
