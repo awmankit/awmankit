@@ -2,8 +2,7 @@
 <h2 align="center"> It's <a  href="https://www.linkedin.com/in/ankit7cpp/">Ankit Sharma</a></h2>
 <br>
 
-<img align='right' src="https://e1.pxfuel.com/desktop-wallpaper/763/43/desktop-wallpaper-javascript-nodejs.jpg">
-
+<iframe src="https://giphy.com/embed/aYzxVt2lMrZXW" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/homer-simpson-fat-mumu-aYzxVt2lMrZXW">via GIPHY</a></p>
 I'm a 4th year **Computer Science** student from **AKGEC, Ghaziabad**.<br> 
 I love **Web Development**💡 that helps me to build interactive websites. 
 
