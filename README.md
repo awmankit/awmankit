@@ -17,20 +17,8 @@ I love **Web Development**💡 that helps me to build interactive websites.
 <p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
 </p>
 <h3 align="center">⚡Github Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devv14&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="Devv14" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devv14&layout=compact&langs_count=10&count_private=true&theme=radical" alt="Devv14" />
-</p>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=awmankit&theme=radical" />
-</p>
-<p align="center">
-  <img src ="https://komarev.com/ghpvc/?username=awmankit&style=plastic&color=f72585"/>
-</p>
 
 <p align="center">
   <i>Let's connect and chat! </i>
