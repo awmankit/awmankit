@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/aYzxVt2lMrZXW/giphy.gif" width="260" height="230">
 
 
-I'm a 4th year **Computer Science** undergraduate from **AKGEC, Ghaziabad**.<br> 
+I'm a 1st year **Artificial Intelligence** M.Tech student from **Delhi Technological University**.<br> 
 I love **Web Development**💡 that helps me to build interactive websites. 
 
 - 🛠 I’m currently focusing on **Data Structures and Algorithms** to get better at **Problem Solving Skills**.
